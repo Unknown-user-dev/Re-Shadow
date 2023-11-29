@@ -1,0 +1,20 @@
+{
+  "name": "reshadow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "clash-of-clans-node": "^1.1.4",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^14.0.0-dev.1646914074.dcd4797",
+    "dotenv": "^16.0.0",
+    "glob": "^7.2.0",
+    "moment": "^2.29.4"
+  }
+}
